@@ -1,0 +1,46 @@
+/* @charset "utf-8";
+*{ margin:0; padding:0; list-style:none;}
+	input[type="button"], 
+	input[type="submit"], 
+	input[type="reset"] 
+	{
+	-webkit-appearance: none;}
+a{ text-decoration:none;} 	
+.body,html{ height:100%; background:#fff;} */
+
+
+
+
+/*忘记密码*/
+/* .zhmm{ width:100%; font-size:24px; font-family:"微软雅黑"; color:#666; text-align:center; padding-top:50px;}
+.text_yz{ text-align:center; width:100%; border:#CCC 1px solid; height:30px; line-height:30px;}
+.text_yzz{ width:100%; border:#CCC 1px solid; height:40px; line-height:40px; font-size:16px; font-family:"微软雅黑"; }
+.main_2{ margin-top:30px;} */
+
+/*欢迎*/
+/* .di{ bottom:60px; height:auto; left:0px; right:0px; position:fixed; overflow:hidden;} */
+
+
+
+
+
+/*修改密码*/
+/* .pass{ width:90%; margin:0px auto; line-height:50px; text-align:right; font-size:16px; font-family:"微软雅黑"; color:#666; padding-top:20px;}
+.qrq{width:80%; margin:10px auto; margin-top:30px;}
+.qr{ width:100%; height:40px; margin:0px auto; border:0px;  color:#fff; font-family:"微软雅黑"; font-size:14px; text-align:center; background:#ff8000;}
+.work{height:30px; width:100%;}
+
+.my_main_p{ background:#FFF; width:85%; height:50px; border-bottom:#CCC 1px solid; font-size:14px; font-family:"微软雅黑"; color:#666; padding-left:30px; }
+.my_mainn_p{ background:#FFF; width:15%; height:50px; border-bottom:#CCC 1px solid; font-size:14px; color:#090; padding-right:30px; font-family:"微软雅黑"; }
+.name_1{ border:0px; font-size:14px; font-family:"微软雅黑"; color:#666;} */
+
+
+/*我的订单*/
+
+/*底部*/
+/* .foot{ text-align:center; font-size:12px; color:#666; padding-bottom:5px; }
+.nav{padding-top:10px; bottom:0px; left:0px; right:0px; position:fixed; overflow:hidden; width:100%; height:50px; background:#f7f7f7; border-top:#CCC 1px solid;}
+.foot span{color:#ff6633;}
+.nav a{ text-decoration:none; color:#666;}
+
+.content{ width:90%; margin:0px auto; font-size:16px; font-family:"微软雅黑"; color:#333; line-height:30px; padding-top:10px;} */

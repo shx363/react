@@ -1,0 +1,127 @@
+.login{width:80%;margin: 0 auto;}
+.top{
+	position:fixed;
+	width:100%;
+	height:44px;
+	top:0;
+	left:0;
+	background:#29a7e2;
+	z-index:100;
+	}
+
+	.box a img{margin-left:10px}
+	
+/* .login{
+	float:right;
+	position:relative;
+	cursor:pointer;
+	}	 */
+.register{
+	float:right;
+	margin-right:20px;
+	}	
+.return{
+	float:left;
+	margin-top:5px;
+	}
+	
+.top .return img{
+	width:17px;
+	height:20px;
+	margin-top:0;
+	}
+
+.top{
+	text-align:center;
+	color:#fff;
+	line-height:44px;
+	font-size:20x;
+	}
+
+.lo_logo{
+    display: block;
+	margin:80px auto 46px;
+	width:200px;
+	height:56px;
+	}	
+.login_lo{
+	width:100%;
+	}
+
+.lo_1{
+	height:44px;
+	width:100%;
+	border-bottom:1px solid #29a7e2;
+	margin-top:12px;
+	}
+
+.lo_1 img{
+	float:left;
+	width:24px;
+	height:24px;
+	margin:10px;
+	}
+
+.lo_1 input{
+	float:left;
+	color:#000;
+	display:block;
+	width:84%;
+	height:44px;
+	background:#ebebeb;
+	border:none
+	}
+
+.lo_login{
+	width:100%;
+	height:40px;
+	font-size:16px;
+	text-align:center;
+	line-height:40px;
+	border-radius:6px;
+	background:#29a7e2;
+	margin-top:50px;
+	display:block;
+	color:#fff;
+	}
+
+.resi{
+	display:block;
+	font-size:14px;
+	line-height:36px;
+	text-align:center;
+	}
+
+.lo_1 span{
+	width:60px;
+	font-size:14px;
+	text-align:right;
+	line-height:44px;
+	display:block;
+	float:left;
+	margin-right:14px;
+	}
+
+.lo_2 input{
+	width:74%;
+	}
+	
+.lo_2{
+	position:relative;
+	}
+
+.yan{
+	position:absolute;
+	bottom:8px;
+	right:0;
+	}
+
+.lo_2 .btn_mfyzm{
+	border:none;
+	color:#666;
+	background: #fff;
+	height:30px;
+	width:100px;
+	background:#ececec;
+	border-radius:4px;
+}
